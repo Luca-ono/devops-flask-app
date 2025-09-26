@@ -19,10 +19,10 @@ def about_page():
 
 @app.route('/contact')
 def contact_page():
-    return "<p>Contact me at C22431396@mytudublin.ie</p>"
+    return "<p>Contact me at c22431396@mytudublin.ie</p>"
 @app.route('/contact')
 def contact_page():
-    return "<p>Contact me at C22431396@mytudublin.ie</p>"
+    return "<p>Contact me at c22431396@mytudublin.ie</p>"
 
 @app.route('/')
 def say_hello():
